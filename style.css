@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container{
+    width:900px;
+    height:550px;
+    background-color:black;
+    
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin:50px auto;
+    
+}
+h1{
+    
+    font-size:45px;
+}
+
+.header{
+    width:450px;
+    padding-left:70px;
+    color: #fff;
+    padding-top:80px;
+    
+
+}
+span{
+    color:indianred;
+}
+
+.paragrapg{
+    font-size:15px;
+    
+}
+.link_button{
+    text-decoration: none;
+    background-image:linear-gradient(indianred, #f0482a);
+    color:#fff;
+    font-weight:700;
+    padding:10px 40px;
+    margin:40px 0;
+    border-radius: 5px;
+}
+#image{
+    width:500px;
+    padding-top:90px;
+}
